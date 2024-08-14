@@ -1,0 +1,47 @@
+section {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 30px;
+    margin-bottom: 80px;
+    margin-top: 80px;
+    padding-bottom: 40px;
+}
+img {
+    width: 100%;
+    border-radius: 30px;
+    margin-top: 60px;
+    height: 150%;
+}
+body {
+    background-color: rgb(243, 229, 212);
+}
+h1 {
+    font-size: 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+h2 {
+    font-size: 25px;
+    color: rgb(95, 24, 24);
+}
+
+div {
+    text-align: justify;
+}
+.conclude{
+    margin-bottom: 30px;
+}
+table {
+    border-collapse: collapse;
+    width: 60%;
+}
+  
+tr {
+    border-bottom: 1px solid #ddd;
+}
